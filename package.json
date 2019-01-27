@@ -1,0 +1,7 @@
+{
+  "name": "docxReader",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-stream-zip": "^1.7.0"
+  }
+}
